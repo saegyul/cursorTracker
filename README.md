@@ -1,4 +1,6 @@
-﻿## Getting Started
+# cursorTracker
+
+## Getting Started
 
 In the root directory of the project...
 
@@ -7,13 +9,11 @@ In the root directory of the project...
 
 ## Next Steps
 
-
 ### Adding a New Page
 
 1. Create a folder in `/src/components` with your react components.
 2. Add a route for your page to `/src/App.js`.
 3. Add a button to the navigation bar in `/src/components/NavBar/index.js`.
-
 
 ### Deployment
 
@@ -65,12 +65,10 @@ The front-end is served on http://localhost:3000/ and the back-end on http://loc
 
 ## Additional Documentation
 
-
 - React - https://reactjs.org/
 - React Router - https://reacttraining.com/react-router/
 
 - Bootstrap CSS - https://getbootstrap.com/
 - Express - https://expressjs.com/
 
-
-  This project was created using [Microsoft Web Template Studio](https://github.com/Microsoft/WebTemplateStudio).
+This project was created using [Microsoft Web Template Studio](https://github.com/Microsoft/WebTemplateStudio).
